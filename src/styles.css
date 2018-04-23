@@ -1,0 +1,53 @@
+
+.folio-theme{
+    background-image: linear-gradient(75deg,#a819b1 0%,#6f13a9 100%);
+}
+/*above rules To set background theme in application*/
+/*override .card .card-image img to circle the images in card*/
+.card .card-image img{
+    border-radius: 50% !important;
+}
+/*overriding title in card*/
+.card .card-image .card-title{
+    position: relative;
+    left: 31px;
+}
+
+/*new rules for navigation*/
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+.sidenav-trigger {
+  color: #26a69a;
+}
+
+/*copying from parallex demo*/
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+  .parallax-container .parallax {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+/*style to make image background transparent*/
+.folio-transparent-card{
+  background-color: initial !important;
+}
+/*background-color: #9d62c7 !important;
+    background: linear-gradient(140deg,rgba(168,25,178,0.92) 0%,rgba(109,19,169,0.92) 100%) !important;
+
+
+//background: linear-gradient(145deg,#BC04C7 0%,#59009B 100%);*/

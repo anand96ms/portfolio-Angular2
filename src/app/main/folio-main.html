@@ -1,0 +1,73 @@
+<nav class="blue" role="navigation" style="position: fixed;
+    top: 0;
+    z-index: 2;">
+  <div class="nav-wrapper container">
+    <ul class="right hide-on-med-and-down">
+      <li><a routerLink="/about">About</a></li>
+      <li><a routerLink="#">Accolades</a></li>
+      <li><a routerLink="/projects">Projects</a></li>
+      <li><a routerLink="#">Experience</a></li>
+      <li><a routerLink="#">Cover Letter</a></li>
+      <li><a routerLink="#">Contact</a></li>
+    </ul>
+
+    <!--<ul id="nav-mobile" class="sidenav">
+        <li><a href="#">Navbar Link</a></li>
+      </ul>
+      <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="fas fa-bars"></i></a>-->
+  </div>
+</nav>
+
+<div class="parallax-container" style="margin-top: 64px;">
+
+  <div class="row">
+    <div class="col l4 offset-l1"></div>
+    <div class="col s12 m7 l3">
+      <div class="card folio-transparent-card">
+        <div class="card-image">
+          <img class="circle" src="../../assets/images/pic_me_twitter.jpg">
+          <!--<span class="card-title"><b>Anand Mohan Singh</b></span>-->
+        </div>
+        <!--<div class="card-content">
+          <p>Developer, Vlogger, MarathonRunner</p>
+        </div>
+        <div class="card-action">
+          <a href="https://twitter.com/iamAnandMS">
+          <i class="fa-twitter-square"></i>
+          follow@iamAnandMS</a>
+        </div>-->
+      </div>
+    </div>
+    <div class="parallax">
+      <img class="responsive-img" src="../../assets/images/background1.jpg">
+    </div>
+  </div>
+
+
+<div style="text-align: center;position: relative;
+    bottom: 20px;">
+    <h5>Anand Mohan Singh</h5>
+    <p>Developer, Vlogger, MarathonRunner</p>
+    <div>
+      <a href="https://twitter.com/iamAnandMS">
+        <i class="fa-twitter-square"></i> follow@iamAnandMS
+      </a>
+    </div>
+  </div>
+
+</div>
+
+<div class="section white">
+  <div class="row container">
+    <h2 class="header">Parallax</h2>
+    <p class="grey-text text-darken-3 lighten-3">Parallax is an effect where the background content or image in this case, is moved at a different speed than the foreground
+      content while scrolling.</p>
+  </div>
+</div>
+<div class="parallax-container">
+  <div class="parallax"><img class="responsive-img" src="../../assets/images/parallax2.jpg"></div>
+</div>
+
+<div class="container">
+  <router-outlet></router-outlet>
+</div>
