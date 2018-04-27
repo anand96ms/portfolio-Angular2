@@ -53,14 +53,6 @@
         "name": "BOEING", "organization": "Infosys Limited", "designation": "Technology Analyst", "startDate": "JUN 2016", "endDate": "OCT 2017", "client": "Boeing", "technologies": "AngularJS,HTML5,CSS3,Bootstrap", "description": "Boeing is a known participant in the field of Aerospace. This project is operating in agile mode. In this project he is working as key UI developer for making Service Request System – Boeing Service Request System (BSRS) for Boeing."
     }
     ],
-    "experience":[ {
-        "organization": "Infosys Limited", "designation": "Technology Analyst", "from": "JUL 2013", "to": "OCT 2017"
-    }
-    ,
-    {
-        "organization": "HCL Technologies", "designation": "Consultant", "from": "NOV 2017", "to": "Present"
-    }
-    ],
     "certifications":[ {
         "provider": "Microsoft", "name": "Microsoft Exam 480: Programming in HTML5 with JavaScript and CSS3"
     }
