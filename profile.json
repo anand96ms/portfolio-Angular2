@@ -1,1 +1,80 @@
-{"name":"Anand Mohan Singh","username":"anand96ms","aboutMe":"A UI Designer/Front End Developer. A Microsoft Certified Specialist in Programming in HTML5 with JavaScript and CSS3. I enjoy taking complex problems and turn them in elegant User Experience design.","contactDetails":{"email":"anand.cse.imps@gmail.com","contactNumber":"8884212506","address":{"street":"Education Colony","society":"Ward No: 07","city":"Purnea","state":"Bihar","pin":"854301"}},"designation":"Mr.","education":[{"qualification":"B.TECH","stream":"Computer Science","marks":84,"pasingYear":2015,"institute":"IMPSCET WBUT"}],"summary":["Technology Ananlyst - Infosys Limited (JUL 2013 - OCT 2017)","Consultant - HCL Technologies (NOV 2017 - Present)"],"skills":[{"skill":"AngularJS","rating":7},{"skill":"Angular","rating":6},{"skill":"Javascript","rating":6},{"skill":"HTML 5","rating":7},{"skill":"CSS 3","rating":7},{"skill":"Bootstrap","rating":6}],"projects":[{"name":"OLBM","organization":"Infosys Limited","designation":"Systems Engineer","startDate":"AUG 2014","endDate":"NOV 2015","client":"SunTrust BANK","technologies":"AngularJS,HTML5,CSS3,Bootstrap","description":"OLBM is a complete development project involved with developing online banking web application for US based Bank as a single page application and also supporting Responsive Web Designing.The application is developed as a set of six SPAs with the functionality within SPAs being achieved by making AJAX calls to web APIs for fetching and updating the data, without a page post back."},{"name":"IDFC","organization":"Infosys Limited","designation":"Senior Systems Engineer","startDate":"DEC 2015","endDate":"MAY 2016","client":"IDFC BANK","technologies":"AngularJS,HTML5,CSS3,Bootstrap,BackBase","description":"IDFC is a Mobile Banking Application development Project for an Indian Bank. This is a hybrid mobile application built for Android and iOS devices. This is a mobile application featuring complete Banking functionalities."},{"name":"BOEING","organization":"Infosys Limited","designation":"Technology Analyst","startDate":"JUN 2016","endDate":"OCT 2017","client":"Boeing","technologies":"AngularJS,HTML5,CSS3,Bootstrap","description":"Boeing is a known participant in the field of Aerospace. This project is operating in agile mode. In this project he is working as key UI developer for making Service Request System – Boeing Service Request System (BSRS) for Boeing."}],"certifications":[{"provider":"Microsoft","name":"Microsoft Exam 480: Programming in HTML5 with JavaScript and CSS3"}],"accolades":[{"title":"Microsoft Exam 480: Programming in HTML5 with JavaScript and CSS3","description":"Microsoft Exam 480: Programming in HTML5 with JavaScript and CSS3","image":"Give Image Name"}],"socialProfiles":{"twitter":"https://twitter.com/iamAnandMS","linkedin":""},"coverLetter":{"greeting":"cover letter greetings","opening":"Opening cover letter","start":"Start Cover letter","skills":"Skill description","close":"Cover Letter Closing"}}
+{
+    "name":"Anand Mohan Singh",
+    "username":"anand96ms",
+    "aboutMe":"A UI Designer/Front End Developer. A Microsoft Certified Specialist in Programming in HTML5 with JavaScript and CSS3. I enjoy taking complex problems and turn them in elegant User Experience design.",
+    "contactDetails": {
+        "email":"anand.cse.imps@gmail.com",
+        "contactNumber":"8884212506",
+        "address": {
+            "street": "Education Colony", "society": "Ward No: 07", "city": "Purnea", "state": "Bihar", "pin": "854301"
+        }
+    }
+    ,
+    "designation":"Mr.",
+    "education":[ {
+        "qualification": "B.TECH", "stream": "Computer Science", "marks": 84, "pasingYear": 2015, "institute": "IMPSCET WBUT"
+    }
+    ],
+    "summary":["Technology Ananlyst - Infosys Limited (JUL 2013 - OCT 2017)",
+    "Consultant - HCL Technologies (NOV 2017 - Present)"],
+    "skills":[ {
+        "skill": "AngularJS", "rating": 7
+    }
+    ,
+    {
+        "skill": "Angular", "rating": 6
+    }
+    ,
+    {
+        "skill": "Javascript", "rating": 6
+    }
+    ,
+    {
+        "skill": "HTML 5", "rating": 7
+    }
+    ,
+    {
+        "skill": "CSS 3", "rating": 7
+    }
+    ,
+    {
+        "skill": "Bootstrap", "rating": 6
+    }
+    ],
+    "projects":[ {
+        "name": "OLBM", "organization": "Infosys Limited", "designation": "Systems Engineer", "startDate": "AUG 2014", "endDate": "NOV 2015", "client": "SunTrust BANK", "technologies": "AngularJS,HTML5,CSS3,Bootstrap", "description": "OLBM is a complete development project involved with developing online banking web application for US based Bank as a single page application and also supporting Responsive Web Designing.The application is developed as a set of six SPAs with the functionality within SPAs being achieved by making AJAX calls to web APIs for fetching and updating the data, without a page post back."
+    }
+    ,
+    {
+        "name": "IDFC", "organization": "Infosys Limited", "designation": "Senior Systems Engineer", "startDate": "DEC 2015", "endDate": "MAY 2016", "client": "IDFC BANK", "technologies": "AngularJS,HTML5,CSS3,Bootstrap,BackBase", "description": "IDFC is a Mobile Banking Application development Project for an Indian Bank. This is a hybrid mobile application built for Android and iOS devices. This is a mobile application featuring complete Banking functionalities."
+    }
+    ,
+    {
+        "name": "BOEING", "organization": "Infosys Limited", "designation": "Technology Analyst", "startDate": "JUN 2016", "endDate": "OCT 2017", "client": "Boeing", "technologies": "AngularJS,HTML5,CSS3,Bootstrap", "description": "Boeing is a known participant in the field of Aerospace. This project is operating in agile mode. In this project he is working as key UI developer for making Service Request System – Boeing Service Request System (BSRS) for Boeing."
+    }
+    ],
+    "experience":[ {
+        "organization": "Infosys Limited", "designation": "Technology Analyst", "from": "JUL 2013", "to": "OCT 2017"
+    }
+    ,
+    {
+        "organization": "HCL Technologies", "designation": "Consultant", "from": "NOV 2017", "to": "Present"
+    }
+    ],
+    "certifications":[ {
+        "provider": "Microsoft", "name": "Microsoft Exam 480: Programming in HTML5 with JavaScript and CSS3"
+    }
+    ],
+    "accolades":[ {
+        "title": "Microsoft Exam 480: Programming in HTML5 with JavaScript and CSS3", "description": "Microsoft Exam 480: Programming in HTML5 with JavaScript and CSS3", "image": "Give Image Name"
+    }
+    ],
+    "socialProfiles": {
+        "twitter": "https://twitter.com/iamAnandMS", "linkedin": "",
+		"github":
+    }
+    ,
+    "coverLetter": {
+        "greeting": "cover letter greetings", "opening": "Opening cover letter", "start": "Start Cover letter", "skills": "Skill description", "close": "Cover Letter Closing"
+    }
+}
